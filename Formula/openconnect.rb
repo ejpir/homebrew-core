@@ -4,7 +4,7 @@ class Openconnect < Formula
   url "ftp://ftp.infradead.org/pub/openconnect/openconnect-8.01.tar.gz"
   mirror "https://fossies.org/linux/privat/openconnect-8.01.tar.gz"
   sha256 "48868a4f99c81a7474d87fbabb41b8eaa7d32b54771c9f23a7aea72d9cd626fd"
-  revision 1
+  revision 2
 
   bottle do
     sha256 "81def078c335023993b56eb6879bbac860675069d23f6e75fd85e33276e439b2" => :mojave
